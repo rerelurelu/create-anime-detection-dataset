@@ -1,0 +1,9 @@
+.vscode/
+
+# model files
+.h5
+.xml
+
+# media files
+*.mp4
+*.jpg
